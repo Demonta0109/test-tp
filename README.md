@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-joannard-c](https://github.com/JeanEdouart/quotes-joannard-c)
-- `contributor-2`: [quotes-callegari-c](quotes-callegari-c)
+- `contributor-2`: [quotes-callegari-c](https://github.com/Destrouille/quotes-callegari-c)
 - `contributor-3`: [quotes-mendes-c](quotes-mendes-c)
